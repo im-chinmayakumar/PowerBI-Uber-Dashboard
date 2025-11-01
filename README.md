@@ -1,25 +1,54 @@
-# PowerBI-Uber-Dashboard
-"Real-world Uber data analysis and dashboard built in Power BI.
-# 📊 Power BI Dashboard: Uber Data Analysis
+🚀 Power BI Project: Uber Ride Data Analysis Dashboard
+This repository contains the source files (.pbix) and documentation for a comprehensive, interactive Uber Ride Data Analysis dashboard built using Power BI Desktop. The project's goal was to transform raw ride-sharing data into actionable business intelligence by visualizing key operational and financial metrics.
 
-This project involves creating a comprehensive, real-world data analysis dashboard in **Power BI** using a dataset based on Uber ride data. The goal was to transform raw data into actionable insights across key operational metrics.
+🎯 Key Dashboard Features
+The dashboard provides a multi-page, detailed view of Uber's operations, focusing on vehicle performance, rider behavior, and geographical trends.
 
-## Key Features & Skills Demonstrated
-* **Interactive Dashboard Design:** Developed a multi-page report structure, including a high-level **Overview Page** and a detailed **Vehicle-Wise Analysis Page** [00:00:26].
-* **Advanced DAX (Data Analysis Expressions):** Created custom calculated measures for essential business metrics, including:
-    * Total Completed Bookings
-    * Average Distance Traveled
-    * Revenue and Normalized Revenue Calculation (using ALL/ALLEXCEPT for filter removal) [00:03:38]
-* **Detailed Segmentation Analysis:** Analyzed sales, bookings, and revenue across different vehicle types (Auto, Bike, Sedan, etc.) to identify trends and performance drops [00:00:36].
-* **User-Friendly Interactivity:** Implemented dynamic features like custom hidden filter panels using **Bookmarks** and **Actions** to enhance user experience and navigation [00:52:55].
+1. Executive Summary / Overview Page
+This is the main landing page, offering a high-level snapshot of the business health (as seen in Screenshot 2025-11-01 105441.png):
 
-## Tools & Technologies Used
-* **Microsoft Power BI** (For visualization and report design)
-* **DAX** (For complex calculations)
+Company Context: Provides a brief overview of Uber's business model and its role in the gig economy.
 
-## Getting Started
-1. Clone this repository.
-2. Open the `[Your-Project-File-Name].pbix` file in Power BI Desktop.
-3. Explore the data model and visualizations.
+Navigation: Intuitive navigation buttons (Home, Overview, Vehicle, Rider, Location) for seamless exploration.
 
----
+2. Vehicle & Monthly Trend Analysis
+(As seen in Screenshot 2025-11-01 110031.png and Screenshot 2025-11-01 110049.png)
+
+This page allows users to slice the data by vehicle type (Auto, Bike, Go Mini, etc.) to understand specific operational segments.
+
+Key Performance Indicators (KPIs): Displays crucial metrics at a glance:
+
+Completed Bookings
+
+Lost Bookings
+
+Revenue (e.g., $80.40K)
+
+Total Distance and Average Distance
+
+Monthly Trend: A dynamic area chart showing the volume/revenue trend over the year (Jan to Dec).
+
+Revenue by Vehicle: Bar chart illustrating revenue contribution across different vehicle categories.
+
+Ride Status Breakdown: Donut charts showing the ratio of Completed, Cancelled, and Incomplete rides for the selected vehicle type.
+
+3. Geographical & Rider Insights
+The dashboard effectively uses geographical data to pinpoint high-activity areas:
+
+Top Pickup/Drop-off Locations: Detailed tables and visual summaries highlighting the busiest areas (e.g., Govindpuri, Samaypur Badli, Adarsh Nagar) in terms of Booking Count.
+
+Rider Metrics: Calculates and displays key user behavior metrics, such as Average Customer Rating and Average of... (likely trip fare or duration).
+
+🛠️ Technical Stack
+Data Visualization: Power BI Desktop
+
+Data Modeling: DAX (Data Analysis Expressions) for creating custom measures and calculated columns (e.g., Total Distance, Avg_Distance).
+
+Design: Utilized custom backgrounds, color themes, and modern visuals to ensure high user engagement and clarity.
+
+🔗 Live Interactive Demo
+You can view and interact with the live version of this dashboard here:
+
+Live Dashboard Link: [Paste the direct public URL here]
+
+https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
