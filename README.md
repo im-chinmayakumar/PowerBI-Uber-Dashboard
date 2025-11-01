@@ -3,6 +3,7 @@ This repository contains the source files (.pbix) and documentation for a compre
 
 🎯 Key Dashboard Features
 The dashboard provides a multi-page, detailed view of Uber's operations, focusing on vehicle performance, rider behavior, and geographical trends.
+![Uploading Screenshot 2025-11-01 105441.png…]()
 
 1. Executive Summary / Overview Page
 This is the main landing page, offering a high-level snapshot of the business health (as seen in Screenshot 2025-11-01 105441.png):
@@ -36,6 +37,7 @@ Ride Status Breakdown: Donut charts showing the ratio of Completed, Cancelled, a
 The dashboard effectively uses geographical data to pinpoint high-activity areas:
 
 Top Pickup/Drop-off Locations: Detailed tables and visual summaries highlighting the busiest areas (e.g., Govindpuri, Samaypur Badli, Adarsh Nagar) in terms of Booking Count.
+<img width="1290" height="705" alt="Screenshot 2025-11-01 110049" src="https://github.com/user-attachments/assets/a394fa96-7983-444d-aff4-9ea9fdf3707b" />
 
 Rider Metrics: Calculates and displays key user behavior metrics, such as Average Customer Rating and Average of... (likely trip fare or duration).
 
@@ -45,6 +47,7 @@ Data Visualization: Power BI Desktop
 Data Modeling: DAX (Data Analysis Expressions) for creating custom measures and calculated columns (e.g., Total Distance, Avg_Distance).
 
 Design: Utilized custom backgrounds, color themes, and modern visuals to ensure high user engagement and clarity.
+<img width="1288" height="721" alt="Screenshot 2025-11-01 110031" src="https://github.com/user-attachments/assets/2d9dcd9f-1c78-48bb-915e-68e1a9c221ea" />
 
 🔗 Live Interactive Demo
 You can view and interact with the live version of this dashboard here:
