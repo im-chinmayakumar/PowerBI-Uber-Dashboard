@@ -3,7 +3,6 @@ This repository contains the source files (.pbix) and documentation for a compre
 
 🎯 Key Dashboard Features
 The dashboard provides a multi-page, detailed view of Uber's operations, focusing on vehicle performance, rider behavior, and geographical trends.
-![Uploading Screenshot 2025-11-01 105441.png…]()
 
 1. Executive Summary / Overview Page
 This is the main landing page, offering a high-level snapshot of the business health (as seen in Screenshot 2025-11-01 105441.png):
@@ -52,6 +51,6 @@ Design: Utilized custom backgrounds, color themes, and modern visuals to ensure 
 🔗 Live Interactive Demo
 You can view and interact with the live version of this dashboard here:
 
-Live Dashboard Link: [Paste the direct public URL here]
+Live Dashboard Link: (https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)]
 
 https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
