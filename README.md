@@ -51,6 +51,7 @@ Design: Utilized custom backgrounds, color themes, and modern visuals to ensure 
 🔗 Live Interactive Demo
 You can view and interact with the live version of this dashboard here:
 
-Live Dashboard Link: (https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)]
+Live Dashboard Link: (https://app.powerbi.com/view?
+https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 https://app.powerbi.com/view?r=eyJrIjoiMTg4NjNkNDQtNzRkMy00NzBkLWE5NmYtMmE5ZWQyODMwNTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
